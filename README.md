@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **game-prototypes**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/loly` 分支；活跃维护请前往 **game-prototypes**。
+> _This repo is archived into game-prototypes; development continues there. Do not commit here._
+
 # DOOM 风格伪 3D 光线投射游戏
 
 一个用 Python + **pygame-ce** 实现的 Wolfenstein / DOOM 风格伪 3D 光线投射（raycasting）游戏。核心是一条 DDA 网格光线投射管线，墙体由程序化噪声纹理渲染，并增量加入了**敌人 / 拾取物**、**surfarray 提速的纹理生成**、**关卡编辑器**与本项目说明文档。
